@@ -4,3 +4,7 @@ Servo motor consists of DC motor with error sensing negative feedback mechanism.
 ## How connect a servo to an Arduino?
 Two ways, sweep and knob.
 The sweep program will drive the arm of the servo back and forth while the Knob program will move the arm of the servo when you turn a potentiometer.
+### Sweep
+![Sweep](https://github.com/Razanalshaeri/Servo_Motor/assets/135154136/3f95624e-1a80-4c75-b01c-64bf650a4ded)
+### Knob
+
