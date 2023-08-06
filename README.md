@@ -7,4 +7,6 @@ The sweep program will drive the arm of the servo back and forth while the Knob 
 ### Sweep
 ![Sweep](https://github.com/Razanalshaeri/Servo_Motor/assets/135154136/3f95624e-1a80-4c75-b01c-64bf650a4ded)
 ### Knob
+![Knop](https://github.com/Razanalshaeri/Servo_Motor/assets/135154136/c624ccec-27d9-4842-b45a-f905d1f99e1f)
+
 
